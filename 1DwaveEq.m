@@ -1,9 +1,3 @@
-                %  -------------------------------  %
-                %  Computational E/M                %
-                %   Angelitsi Sotiria, AEM:4366     %
-                %   Set 1                           %
-                %  -------------------------------  %
-                
 clear; clc; clf;
 c=1;    %speed of light
 Lx=10.0;    % space-steps
