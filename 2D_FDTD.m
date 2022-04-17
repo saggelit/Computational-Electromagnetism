@@ -1,9 +1,3 @@
-                %  -------------------------------  %
-                %  Computational E/M                %
-                %   Angelitsi Sotiria, AEM:4366     %
-                %   Set 2                           %
-                %  -------------------------------  %
-                
 clear; clc; clf;
 c=1;    % speed of light
 phi=0:0.25:90; % propagation angle
