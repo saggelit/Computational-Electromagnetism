@@ -1,9 +1,3 @@
-                %  -------------------------------  %
-                %        Computational E/M          %
-                %   Angelitsi Sotiria, AEM:4366     %
-                %             Set 3                 %
-                %  -------------------------------  %
-
 clear; clc; clf;
 
 N=200;                  % Number of Cells
