@@ -21,7 +21,7 @@ o for Δt = 0.9 Δx/c, Δt = Δx/c, and Δt = 1.1Δx/c.
 • Assume the propagation angle to be zero for the propagation along the x-axis.
 
 
-##########  Total-field/Scattered-field implementation in 1D FDTD  ##########
+##########  (TFSF) Total-field/Scattered-field implementation in 1D FDTD  ##########
 • Write a 1D FDTD code that implements the total-field/scattered-field (TFSF) technique for a plane-wave source.
 • At the boundaries of your 1D computational domain use Mur’s ABC of first order.
 [Hint: You can use a TFSF only on the left side of the 1D domain, if you wish.]
